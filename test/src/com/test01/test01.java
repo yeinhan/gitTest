@@ -7,5 +7,7 @@ public class test01 {
 		System.out.println("b1");
 		
 		System.out.println("병함 어케");
+		
+		System.out.println("main");
 	}
 }
