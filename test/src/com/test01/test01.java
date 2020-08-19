@@ -9,5 +9,7 @@ public class test01 {
 		System.out.println("병함 어케");
 		
 		System.out.println("main");
+		
+		System.out.println("branch2");
 	}
 }
