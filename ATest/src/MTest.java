@@ -4,5 +4,7 @@ public class MTest {
 		System.out.println("aaaaaa");
 		
 		System.out.println("bbb");
+		
+		System.out.println("b1");
 	}
 }
