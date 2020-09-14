@@ -5,9 +5,6 @@ public class MTest {
 		System.out.println("1");
 		
 		System.out.println("2");
-		
-		
-		int v;
 	}
 }
 
